@@ -1,5 +1,5 @@
 # UnityMiniProject
-university first year mini game
+mini game
 
 ## Oyun içi resimler
 ![Photo](https://user-images.githubusercontent.com/58556840/170123431-d6f4e26b-8916-4bb7-b92b-a494ecfb7895.png)
